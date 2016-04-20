@@ -8,3 +8,9 @@
 
 5> Create a homepage, about and link them each to orther
     -Homepage: previous homework assignment
+    
+6>
+
+7>
+
+8> Add 8 and commit to github
