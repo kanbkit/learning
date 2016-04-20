@@ -1,0 +1,10 @@
+1> Create new Rails application and call it is Alpha Blog.
+
+2> Ensure you can run it on server and preview it.
+
+3> Pages controller
+
+4> Ensure you have approriate routes
+
+5> Create a homepage, about and link them each to orther
+    -Homepage: previous homework assignment
